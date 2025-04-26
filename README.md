@@ -4,7 +4,7 @@ Adapts in Real-Time: Instead of fixed time slices, EARR dynamically adjusts how 
 
 Predicts Resource Needs: The algorithm anticipates when processes will need CPU time, helping avoid wasted idle cycles.
 
-Balances Two Goals: EARR finds the sweet spot between:
+Balances Two Goals: EARR finds the sweet spot between:-
 Saving energy (reducing power consumption)
 Maintaining good performance (keeping throughput high and latency low)
 
